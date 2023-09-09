@@ -6,6 +6,7 @@ Portfólio pessoal em HTML e CSS e JavaScript. Criado a partir do layout figma e
 
 
 ## Foi adicionado o meu próprio estilo de fundo, display grid nas listas de habilidades, escrita em tempo real do meu nome ao abrir o site entre outros estilos:
-![image](https://github.com/Lucasgyn94/meu-portfolio-pessoal/assets/91031320/07d4067c-9e44-4f9b-a1a4-558f45cfed43)
+![image](https://github.com/Lucasgyn94/meu-portfolio-pessoal/assets/91031320/7439ccba-cef5-46e6-abad-59b2a25029f3)
+
 
 
