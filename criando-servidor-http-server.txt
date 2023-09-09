@@ -1,0 +1,7 @@
+1º Passo 
+* Instalamos o http-server:
+$ npm install http-server -g
+
+2º Passo
+* Abrimos com o seguinte comando
+$ http-server ./
